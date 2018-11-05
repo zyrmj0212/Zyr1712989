@@ -1,0 +1,3 @@
+﻿  源.cpp
+c:\users\macbook\source\repos\表达式求值\t\源.cpp(50): warning C4715: “judgePrecedence”: 不是所有的控件路径都返回值
+  T.vcxproj -> C:\Users\MacBook\source\repos\表达式求值\Debug\T.exe
